@@ -1,9 +1,8 @@
 // ==UserScript==
 // @name         Ascunde pret
-// @namespace    http://google.com/
-// @version      1
+// @version      1.0
 // @description  Ascunde pretul de pe emag.ro
-// @author       You
+// @author       pckltr
 // @match        http*://*.emag.ro/*
 // @grant        none
 // @run-at       document-start
