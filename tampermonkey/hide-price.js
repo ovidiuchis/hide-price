@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         Ascunde pret
+// @namespace    https://github.com/pckltr/hide-price
 // @version      1.0
 // @description  Ascunde pretul de pe emag.ro
 // @author       pckltr
